@@ -35,4 +35,9 @@ this project was created for react native and firbase study using | so i didn't 
 ![1](https://user-images.githubusercontent.com/78555264/176006604-83a39f55-877f-4a91-892e-0b7413a29095.png)
 ![2](https://user-images.githubusercontent.com/78555264/176006643-94065338-6294-404d-8bb6-6e8b2a589427.png)
 
+## Getting Started with EXPO
+
+React Native allows JavaScript developers to create mobile projects for Android and iOS. This course will 
+teach you how to create React Native apps using the Expo SDK.
+
 
