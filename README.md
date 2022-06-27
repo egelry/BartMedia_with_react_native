@@ -37,7 +37,5 @@ this project was created for react native and firbase study using | so i didn't 
 
 ## Getting Started with EXPO
 
-React Native allows JavaScript developers to create mobile projects for Android and iOS. This course will 
-teach you how to create React Native apps using the Expo SDK.
-
+React Native allows JavaScript developers to create mobile projects for Android and iOS. 
 
