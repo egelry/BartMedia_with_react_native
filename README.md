@@ -1,6 +1,6 @@
 # Bart Media - Chat App
 
-this project was created for react native and firbase study using | so i didn't put much effort into designing
+this project was created for react native and firebase study using | so i didn't put much effort into designing
 
 # Packages
   
